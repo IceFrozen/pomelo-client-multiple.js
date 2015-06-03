@@ -1,0 +1,10 @@
+{
+  "name": "pomelo-client-multiple",
+  "version": "0.0.1",
+  "private": false,
+  "dependencies": {
+    "pomelo-protobuf": "*",
+    "pomelo-protocol": "*",
+    "ws": "*"
+  }
+}
