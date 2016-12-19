@@ -1,7 +1,19 @@
 {
   "name": "pomelo-client-multiple",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "private": false,
+   "keywords": [
+    "pomelo",
+    "ws",
+    "pomelo client",
+    "multiple client"
+  ],
+  "author": "jason lee",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IceFrozen/pomelo-client-multiple.js.git"
+  },
+  "license": "ISC",
   "dependencies": {
     "pomelo-protobuf": "*",
     "pomelo-protocol": "*",
